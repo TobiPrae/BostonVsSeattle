@@ -2,6 +2,8 @@
 
 Hi, welcome to my project. I created this repository for the first project I had to do during my data science nano degree on udacity. 
 
+The medium blog post can be found here: https://tobias-praetori91.medium.com/airbnb-listings-in-boston-and-seattle-how-do-they-differ-d98e8f49623f
+
 I analyzed Airbnb listings from Seattle and Boston. I aimed to answer the following questions:
 1. How do the cities differ in price?
 - I compared the cities by plotting the prices with a box plot
@@ -22,6 +24,10 @@ I analyzed Airbnb listings from Seattle and Boston. I aimed to answer the follow
 - For both cities listings in the center seemed to have higher prices
 
 To execute my code you need the modules:
-
-
-The medium blog post can be found here: https://tobias-praetori91.medium.com/airbnb-listings-in-boston-and-seattle-how-do-they-differ-d98e8f49623f
+- pandas
+- numpy
+- math
+- re
+- geopandas
+- matplotlib
+- sklearn
