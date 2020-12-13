@@ -1,6 +1,7 @@
 # BostonVsSeattle
 
 **Motivation**
+
 Hi, welcome to my project. I created this repository for the first project I had to do during my data science nano degree on udacity. I choose the Airbnb data because I always wanted to work with some geo data. So these sets were a welcome opportunity.
 
 Here is a short summary of the project (for more details I refer to the Jupyter notebook).
