@@ -2,7 +2,7 @@
 
 Hi, welcome to my project. I created this repository for the first project I had to do during my data science nano degree on udacity. Here is a short summary of the project (for more details I refer to the Jupyter notebook).
 
-Business Understanding:
+**Business Understanding**
 I analyzed Airbnb listings from Seattle and Boston. I aimed to answer the following questions:
   1. How do the cities differ in price?
   2. Which factors had a particularly strong influence on the price?
